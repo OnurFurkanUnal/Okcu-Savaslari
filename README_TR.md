@@ -1,6 +1,6 @@
 # Okcu-Savaslari
 
-İlk mobil oyunum. Toplam 4 ay içinde bitirdim. Bütçemizin kısıtlı olmasından dolayı oyunumuzda bazı eksiklikler var. Server ve oyun tamamen tarafımdan tasarlanmışdır. Sadece logo ve karakter çizimi satın alınmışdır. Serverımızın aylık maliyeti 10 dolar. Günlük bin aktif oyuncuya erişene kadar oyundaki bazı eksiklikleri düzeltme gereği görmedim. Bu eksiklikler : 
+İlk mobil oyunum ve online. Toplam 4 ay içinde bitirdim. Bütçemizin kısıtlı olmasından dolayı oyunumuzda bazı eksiklikler var. Server ve oyun tamamen tarafımdan tasarlanmışdır. Sadece logo ve karakter çizimi satın alınmışdır. Serverımızın aylık maliyeti 10 dolar. Günlük bin aktif oyuncuya erişene kadar oyundaki bazı eksiklikleri düzeltme gereği görmedim. Bu eksiklikler : 
 - Safetynet : Oyunun indirildiği gibi orjinal olup olmadığını kontrol eder.
 - Act : değişkenleri hafızada korumak için kullanılır. Ve önemli değerleri hafıza taramalarından korumak için
 https://codestage.net/uas/actk/ 
