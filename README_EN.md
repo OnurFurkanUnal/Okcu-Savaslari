@@ -7,4 +7,7 @@ https://codestage.net/uas/actk/
 - Client-Side Prediction and Server Reconciliation: Our server is authorized but there is no Server Reconciliation. Because we did not embed unity engineering on our server because of the cost. If we reach a thousand active players per day, we will strengthen our server and simulate the game on our server.
 - Since our game is new, we assume that no one is cheating and we do everything on the client. This poses a risk to us, but we don't think it will be a problem up to a certain level. Because it is difficult for normal players to understand this shortcoming.
 
+Game [link](https://play.google.com/store/apps/details?id=org.DefaultCompany.org.unity.mutibow.mobile)
+
+
 I hope you have fun playing. Thank you in advance for your interest. For your requests, suggestions and complaints, Onurfurkanunal@gmail.com
