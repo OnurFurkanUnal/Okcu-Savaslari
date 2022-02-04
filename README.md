@@ -1,1 +1,0 @@
-# Okcu-Savaslari
